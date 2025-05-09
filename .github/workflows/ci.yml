@@ -37,4 +37,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: harry-ham/apt-community:latest
+          tags: hamhochul/apt-community:latest
